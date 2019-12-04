@@ -28,7 +28,7 @@ public class PrevisaoService {
 	PrevisaoRepository previsaoRepo;
 	
 	private final String URL_PREV = "https://samples.openweathermap.org/data/2.5/forecast?q=";
-	private final String APP_ID = "be8b5a409db5a652138d22f3a50368f9";
+	private final String APP_ID = "b3d6854a8ef0cde53a251b5115a33120";
 	private final double TO_CELSIUS = 273.15;
 	
 	@Bean
